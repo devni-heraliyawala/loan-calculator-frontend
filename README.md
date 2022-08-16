@@ -23,7 +23,7 @@ Technologies
 - Use [Environment Variables]() to manage configuration inside your application. Edit the `.env.stage.dev` file accordingly.
 - Loan calculator frontend can be found from [here](https://github.com/devni-heraliyawala/loan-calculator-frontend).
 - Loan calculator API backend can be found from [here](https://github.com/devni-heraliyawala/loan-calculator).
-- Default port `7241` is used for the backend.
+- Default port `5197` is used for the backend.
 - Default port of `3000` is used for the frontend.
 - .NET core backend should be updated, configured and run successfully to start the frontend properly.
 ## Installation
